@@ -1,0 +1,5 @@
+google.com
+facebook.com
+youtube.com
+yahoo.com
+baidu.com
